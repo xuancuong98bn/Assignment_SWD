@@ -1,0 +1,6 @@
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.CORE\bin\Debug\FCleaner.CORE.exe
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.CORE\bin\Debug\FCleaner.CORE.pdb
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.CORE\obj\Debug\FCleaner.CORE.csprojAssemblyReference.cache
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.CORE\obj\Debug\FCleaner.CORE.csproj.CoreCompileInputs.cache
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.CORE\obj\Debug\FCleaner.CORE.exe
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.CORE\obj\Debug\FCleaner.CORE.pdb

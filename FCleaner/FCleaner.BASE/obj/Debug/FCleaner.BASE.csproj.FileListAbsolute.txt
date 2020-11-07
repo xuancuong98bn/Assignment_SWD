@@ -1,0 +1,11 @@
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.BASE\obj\Debug\FCleaner.BASE.csprojAssemblyReference.cache
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.BASE\obj\Debug\FCleaner.BASE.Properties.Resources.resources
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.BASE\obj\Debug\FCleaner.BASE.csproj.GenerateResource.cache
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.BASE\obj\Debug\FCleaner.BASE.csproj.CoreCompileInputs.cache
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.BASE\bin\Debug\FCleaner.BASE.exe
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.BASE\bin\Debug\FCleaner.BASE.pdb
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.BASE\bin\Debug\FCleaner.CORE.exe
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.BASE\bin\Debug\FCleaner.CORE.pdb
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.BASE\obj\Debug\FCleaner.BASE.csproj.CopyComplete
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.BASE\obj\Debug\FCleaner.BASE.exe
+D:\Study\Specialization\Specialization_7\SWD391\Assignment_2\Code\FCleaner\FCleaner.BASE\obj\Debug\FCleaner.BASE.pdb
