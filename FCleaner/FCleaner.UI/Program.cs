@@ -1,5 +1,4 @@
-﻿using FCleaner.UI.Controller;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
@@ -16,8 +15,7 @@ namespace FCleaner.UI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            HomeController home = new HomeController();
-            Application.Run(home.HomeForm);
+            Application.Run(new HomeForm());
         }
     }
 }
